@@ -15,7 +15,7 @@
 ## Introduction
 This project demonstrates how to build a Canva-like design editor using React and IMG.LY's CreativeEditor SDK (CE.SDK). With this clone, users can create invitations, greeting cards, flyers, postcards, and business cards with ease.
 
-![Canva Clone Demo](https://imgly-blog-prod.storage.googleapis.com/2022/07/creator-mode-cesdk.gif)
+![Canva Clone Demo](./assets/demo.gif)
 
 ## Features
 - Template Management
