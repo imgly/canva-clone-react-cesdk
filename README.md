@@ -84,5 +84,5 @@ To further enhance your Canva clone, consider:
 For a detailed tutorial on building a Canva clone with CE.SDK, check out the [IMG.LY blog article](https://img.ly/blog/how-to-build-a-canva-clone-with-ce-sdk/). To learn more about IMG.LY and our offerings, visit our [home page](https://www.img.ly).
 
 ## License
-While the code in this project is licensed under the MIT License. Using CE.SDK in your project requires a commercial license. 
+While the code in this project is licensed under the AGPL-3.0 License, using CE.SDK in your project requires a commercial license. 
 You can obtain a license for trialing purposes by [signing up for our free trial](https://img.ly/forms/free-trial).
